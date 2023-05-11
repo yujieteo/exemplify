@@ -1,0 +1,10 @@
+Write, in the form of LaTeX .tex source with beamer,
+on the topic of Frobenius ring with detailed technical jargon. 
+All beamer frames have small font applied. These are the following beamer frames. 
+Each frame should have appropriate descriptive mathematical formulae:
+1. Important corollaries of Frobenius ring
+2. Counter-intuitive examples in Frobenius ring
+3. Special cases of Frobenius ring
+4. Non-examples of Frobenius ring
+5. Precise definition of Frobenius ring
+6. Concluding sentence.
